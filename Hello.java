@@ -3,7 +3,7 @@
 		System.out.println("傻逼");
 		System.out.println("傻逼");
 		System.out.println("二黄");
-		System.out.println("傻逼");
+	
 <<<<<<< HEAD
                
 =======
